@@ -1,0 +1,19 @@
+
+# This is the list of vscode extensions I use
+## Extracted from:
+# code --list-extensions
+## To restore:
+# cat vscode-extensions.txt | sed '/^#/ d' | xargs -L 1 code --install-extension
+
+DavidAnson.vscode-markdownlint
+eamodio.gitlens
+GitLab.gitlab-workflow
+golang.go
+ms-azuretools.vscode-docker
+ms-python.python
+ms-toolsai.jupyter
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode.cpptools
+ms-vsliveshare.vsliveshare
+rafaelmaiolla.remote-vscode
